@@ -28,6 +28,7 @@
       <sourceFolder url="file://$MODULE_DIR$/../test" isTestSource="true" />
       <excludeFolder url="file://$MODULE_DIR$/../tmp" />
     </content>
+    <content url="file://$MODULE_DIR$" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" scope="PROVIDED" name="[gem] rails (v3.0.3, /Library/Ruby/Gems/1.8/gems/rails-3.0.3)" level="application" />
